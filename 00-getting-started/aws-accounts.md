@@ -87,7 +87,7 @@ Once signed in as root, before creating any IAM users, a short list of account-l
 
 **Instructor Concept, exact real-world costs to expect even while "staying in free tier"**: a Route 53 hosted zone runs under $1/month; small miscellaneous charges of a couple of dollars occasionally appear; and **domain registration** (if a lab ever calls for it) typically runs $5–6, which alone can exceed a very tight budget threshold — worth anticipating rather than being surprised by.
 
-**Instructor Concept, exact Cost Explorer note**: Cost Explorer won't show any data for a brand-new account — it needs roughly 24 hours after first being opened before an itemized spend breakdown becomes available (the same delay covered for the certification-track course in [Cost Explorer](../../aws-security-specialty/08-organizations-and-governance/cost-and-notifications.md), if you have that repository alongside this one).
+**Instructor Concept, exact Cost Explorer note**: Cost Explorer won't show any data for a brand-new account — it needs roughly 24 hours after first being opened before an itemized spend breakdown becomes available.
 
 ## 7. Hands-On: Installing the CLI and an Editor
 
